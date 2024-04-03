@@ -4,7 +4,7 @@ const nextConfig = {
         remotePatterns: [
           {
             protocol: 'https',
-            hostname: 'covers.openlibrary.org',
+            hostname: 'source.unsplash.com',
           },
         ],
     },
